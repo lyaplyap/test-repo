@@ -702,7 +702,7 @@ class App extends React.Component {
         //request.setRequestHeader("Content-Type", "application/json");
 		//request.send(data);
 		
-		fetch('https://reacted2-app.herokuapp.com', {
+		fetch('', {
 			method: 'post',
 			mode: 'no-cors',
     		headers: {
